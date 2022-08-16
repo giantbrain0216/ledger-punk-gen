@@ -1,4 +1,4 @@
-### ledger-punk-gen
+### Ledger-punk-gen
 
 - Download [Python](https://www.python.org/downloads/)
 - Install Python and add path
